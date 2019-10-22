@@ -10,19 +10,19 @@ iwang-peng 的个人博客
 
 ### 最新
 
-* [zabbix监控hadoop集群](http://www.ikongshuling.com/articles/2019/09/20/1568971149470.html)
-* [基于mysql_export实现granafa的数据展示](http://www.ikongshuling.com/articles/2019/09/18/1568791922423.html)
-* [prometheus监控进程数](http://www.ikongshuling.com/articles/2019/09/17/1568691825436.html)
-* [基于rsync+inotify工具实现文件的同步,亲自试验。](http://www.ikongshuling.com/articles/2019/08/13/1565661791078.html)
-* [解决磁盘未使用完毕，报无磁盘可用问题](http://www.ikongshuling.com/articles/2019/06/01/1559360972994.html)
-* [fastdfs单节点数据迁移到集群](http://www.ikongshuling.com/articles/2019/05/12/1557639061333.html)
-* [部署fastdfs集群](http://www.ikongshuling.com/articles/2019/05/12/1557632914446.html)
-* [mongodb安装、守护进程以及索引](http://www.ikongshuling.com/articles/2019/04/26/1556269298264.html)
-* [openldap双主搭建](http://www.ikongshuling.com/articles/2019/04/26/1556268940013.html)
-* [zabbix-3.4搭建并创建监控报警](http://www.ikongshuling.com/articles/2019/04/26/1556268737599.html)
-* [ssh互信任登陆脚本](http://www.ikongshuling.com/articles/2019/04/26/1556268454172.html)
-* [自动部署fastdfs单节点脚本](http://www.ikongshuling.com/articles/2019/04/26/1556268302662.html)
-* [zabbix监测web站点以及用户是否能正常登陆](http://www.ikongshuling.com/articles/2019/04/26/1556267533725.html)
+* [zabbix监控hadoop集群](https://www.ikongshuling.com/articles/2019/09/20/1568971149470.html)
+* [基于mysql_export实现granafa的数据展示](https://www.ikongshuling.com/articles/2019/09/18/1568791922423.html)
+* [prometheus监控进程数](https://www.ikongshuling.com/articles/2019/09/17/1568691825436.html)
+* [基于rsync+inotify工具实现文件的同步,亲自试验。](https://www.ikongshuling.com/articles/2019/08/13/1565661791078.html)
+* [解决磁盘未使用完毕，报无磁盘可用问题](https://www.ikongshuling.com/articles/2019/06/01/1559360972994.html)
+* [fastdfs单节点数据迁移到集群](https://www.ikongshuling.com/articles/2019/05/12/1557639061333.html)
+* [部署fastdfs集群](https://www.ikongshuling.com/articles/2019/05/12/1557632914446.html)
+* [mongodb安装、守护进程以及索引](https://www.ikongshuling.com/articles/2019/04/26/1556269298264.html)
+* [openldap双主搭建](https://www.ikongshuling.com/articles/2019/04/26/1556268940013.html)
+* [zabbix-3.4搭建并创建监控报警](https://www.ikongshuling.com/articles/2019/04/26/1556268737599.html)
+* [ssh互信任登陆脚本](https://www.ikongshuling.com/articles/2019/04/26/1556268454172.html)
+* [自动部署fastdfs单节点脚本](https://www.ikongshuling.com/articles/2019/04/26/1556268302662.html)
+* [zabbix监测web站点以及用户是否能正常登陆](https://www.ikongshuling.com/articles/2019/04/26/1556267533725.html)
 
 
 
