@@ -10,6 +10,7 @@ iwang-peng 的个人博客
 
 ### 最新
 
+* [多次格式化hadoop导致datanode无法启动以及hbase无表状态。](https://www.ikongshuling.com/articles/2019/10/23/1571796999506.html)
 * [zabbix监控hadoop集群](https://www.ikongshuling.com/articles/2019/09/20/1568971149470.html)
 * [基于mysql_export实现granafa的数据展示](https://www.ikongshuling.com/articles/2019/09/18/1568791922423.html)
 * [prometheus监控进程数](https://www.ikongshuling.com/articles/2019/09/17/1568691825436.html)
